@@ -1,0 +1,12 @@
+What is my favorite color?, Red, Green, Purple, Blue, 3
+When is my birthday?, 2/25, 11/10, 3/25, 12/26, 2
+What is Hogwarts House?, Gryffindor, Ravenclaw, Hufflepuff, Slytherin, 2
+What is my favorite animal? (Out of these), Sloth, Lion, Dolphin, Tiger, 3
+What hobby am I best at?, Art, Sports, Music, Cooking, 1
+What is my favorite food?, Pizza, Burgers, Fries, Mac N Cheese, 4
+What instrument do I play?, Violin, Cello, Piano, None, 3
+What is my favorite book genre?, Mystery/Horror, Romance, Sci-Fi, Graphic Novels, 1
+How old am I?, 9, 10, 11, 12, 3
+What is my favorite subject?, Math, Science, PE, Reading, 1
+What is my LEAST favorite subject?, Science, PE, Writing, Music, 2
+What is my most used material in art?, Markers, Paints, Colored Pencils, Crayons, 3
